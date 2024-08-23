@@ -10,3 +10,6 @@ Express CLI with commands like: create-express-app (similar to create-react-app)
 
 ### [Character IA Discord bot](https://github.com/DaviGGA/character-discord-bot)
 A Discord bot that uses Gemini3 to mimic a fictional character
+
+### [Ifood backend](https://github.com/DaviGGA/ifood-project)
+Food delivery app using Express. Using Clean Arch [WIP]
