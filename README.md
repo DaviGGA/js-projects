@@ -8,4 +8,5 @@ Markdown repo pointing to all my Node / Javascript projects
 ### [Express CLI](https://github.com/DaviGGA/express-cli)
 Express CLI with commands like: create-express-app (similar to create-react-app)
 
-https://github.com/DaviGGA/express-cli
+### [Character IA Discord bot](https://github.com/DaviGGA/character-discord-bot)
+A Discord bot that uses Gemini3 to mimic a fictional character
