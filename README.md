@@ -13,3 +13,6 @@ A Discord bot that uses Gemini3 to mimic a fictional character
 
 ### [Ifood backend](https://github.com/DaviGGA/ifood-project)
 Food delivery app using Express. Using Clean Arch [WIP]
+
+### [Social media backend](https://github.com/DaviGGA/social-media-api-v2)
+Social media inspired by Instagram using Express. 
